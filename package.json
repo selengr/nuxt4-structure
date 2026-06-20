@@ -1,17 +1,17 @@
 {
-  "name": "my-nuxt",
+  "name": "nuxt4-structure",
   "type": "module",
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev -p 4000",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^4.4.2",
-    "vue": "^3.5.33",
-    "vue-router": "^5.0.6"
+    "nuxt": "^4.4.8",
+    "vue": "^3.5.35",
+    "vue-router": "^5.1.0"
   }
 }
